@@ -8,7 +8,7 @@ function internally to do the heavy lifting of sorting.
 
 >The code in repo is not of production grade, please don't use it for prod
 purposes and the right now the code have only been tested and configured to
-work upon Mac OS x86_64. I hope the C friends would spare me as I haven't 
+work upon Mac OS x86_64. I hope that the C friends would spare me as I haven't 
 touched C in last 12-14 years :-P
 
 ## Prereuisites

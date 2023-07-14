@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "--std=c99",
+      "-I/usr/local/Cellar/criterion/2.4.1_2/include",
+      "-Wall",
+      "-fPIC",
+      "-o",
+      "libwildsort.so",
+      "src/wildsort.c"
+    ],
+    "directory": "/Users/mario/Desktop/Personal/repositories/c/wildsort",
+    "file": "/Users/mario/Desktop/Personal/repositories/c/wildsort/src/wildsort.c",
+    "output": "/Users/mario/Desktop/Personal/repositories/c/wildsort/libwildsort.so"
+  }
+]

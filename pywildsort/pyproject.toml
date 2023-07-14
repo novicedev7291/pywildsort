@@ -1,0 +1,16 @@
+
+[project]
+name = "pywildsort"
+version = "0.1.17"
+description = "Python wrapper around native libwildsort library"
+authors = [
+    {name = "Kuldeep", email = "kuldeepyadav7291@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "GPL"}
+
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"

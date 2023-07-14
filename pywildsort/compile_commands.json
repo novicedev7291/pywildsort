@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "--std=c99",
+      "-Wall",
+      "-I/usr/local/Cellar/python@3.10/3.10.12_1/Frameworks/Python.framework/Versions/3.10/include/python3.10",
+      "-I/Users/mario/.local/share/wildsort/include",
+      "-c",
+      "-o",
+      "bin/wildsort.o",
+      "src/wildsort.c"
+    ],
+    "directory": "/Users/mario/Desktop/Personal/repositories/python/pywildsort",
+    "file": "/Users/mario/Desktop/Personal/repositories/python/pywildsort/src/wildsort.c",
+    "output": "/Users/mario/Desktop/Personal/repositories/python/pywildsort/bin/wildsort.o"
+  }
+]

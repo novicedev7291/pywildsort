@@ -25,6 +25,12 @@ There are two modules in this source code, one is for the C shared library
 * For compiling python package `pywildsort`, check [INSTALL.md](pywildsort/INSTALL.md).
 
 ## Usage
+```sh
+pip install <path-to-pywildsort-pkg>/pywildsort-0.1.17.tar.gz
+
+## If you have followed the installation step, then path will be in cloned
+## repo's pywildsort/dist folder.
+```
 ```python
 from wildsort import sort
 

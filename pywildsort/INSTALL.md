@@ -32,5 +32,5 @@ chmod +x release.sh
 >All steps executed above are under `pywildsort` directory.
 
 ## TODOs
-[] Creating platform dependent wheels for major platforms i.e. Debian, Arch, Windows etc.
-[] Upload the wheels to https://test.pypi.org
+-[] Creating platform dependent wheels for major platforms i.e. Debian, Arch, Windows etc.
+-[] Upload the wheels to https://test.pypi.org

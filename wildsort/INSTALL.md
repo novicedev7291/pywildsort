@@ -28,5 +28,5 @@ I am not sure about the steps involved to make it work on windows. All steps
 executed above are under `wildsort` directing inside parent directory of git repo.
 
 ## TODOs
-[] Config to support source code development on linux as well as windows.
-[] Generalize `Makefile` to support platform specific shared library.
+- [ ] Config to support source code development on linux as well as windows.
+- [ ] Generalize `Makefile` to support platform specific shared library.

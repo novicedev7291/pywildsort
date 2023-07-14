@@ -1,19 +1,19 @@
 # Wrapper Python Package over native library
 
 ## Introduction
-This repos stores the source code for python wrapper package over a native C
+This repo stores the source code for python wrapper package over a native C
 shared library using python's C APIs. The package just offers a simple `sort`
 function which tries to sort the integers and uses the shared library's 
-function to do the heavy lifting of sorting.
+function internally to do the heavy lifting of sorting.
 
 >The code in repo is not of production grade, please don't use it for prod
-purposes and the right now the code have only be tested and configured to
+purposes and the right now the code have only been tested and configured to
 work upon Mac OS x86_64. I hope the C friends would spare me as I haven't 
 touched C in last 12-14 years :-P
 
 ## Prereuisites
 * C compiler and related build tools i.e. GCC or clang, make
-* [Criterion C testing library](https://github.com/Snaipe/Criterion)
+* [Criterion C/C++ testing library](https://github.com/Snaipe/Criterion)
 * Python3.9 or 3.10 (tested at least with for now)
 
 ## Installation

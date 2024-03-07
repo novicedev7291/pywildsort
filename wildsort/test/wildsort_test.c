@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<criterion/criterion.h>
 #include<criterion/new/assert.h>
-#include "../src/wildsort.h"
+#include<wildsort.h>
 
 #define PRINT_ARR(arr, size) for(int i = 0; i < size; i++) printf("%d, ", arr[i]);
 

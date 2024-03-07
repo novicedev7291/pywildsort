@@ -1,18 +1,12 @@
 [
-  {
-    "arguments": [
-      "/usr/bin/gcc",
-      "-c",
-      "--std=c99",
-      "-I/usr/local/Cellar/criterion/2.4.1_2/include",
-      "-Wall",
-      "-fPIC",
-      "-o",
-      "libwildsort.so",
-      "src/wildsort.c"
-    ],
-    "directory": "/Users/mario/Desktop/Personal/repositories/c/wildsort",
-    "file": "/Users/mario/Desktop/Personal/repositories/c/wildsort/src/wildsort.c",
-    "output": "/Users/mario/Desktop/Personal/repositories/c/wildsort/libwildsort.so"
-  }
+{
+  "directory": "/Users/mario/Desktop/Personal/repositories/blogs/pywildsort/wildsort/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -Dwildsort_EXPORTS   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -std=gnu99 -o CMakeFiles/wildsort.dir/src/wildsort.c.o -c /Users/mario/Desktop/Personal/repositories/blogs/pywildsort/wildsort/src/wildsort.c",
+  "file": "/Users/mario/Desktop/Personal/repositories/blogs/pywildsort/wildsort/src/wildsort.c"
+},
+{
+  "directory": "/Users/mario/Desktop/Personal/repositories/blogs/pywildsort/wildsort/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mario/Desktop/Personal/repositories/blogs/pywildsort/wildsort/include -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -std=gnu99 -o CMakeFiles/wildsorttest.dir/test/wildsort_test.c.o -c /Users/mario/Desktop/Personal/repositories/blogs/pywildsort/wildsort/test/wildsort_test.c",
+  "file": "/Users/mario/Desktop/Personal/repositories/blogs/pywildsort/wildsort/test/wildsort_test.c"
+}
 ]

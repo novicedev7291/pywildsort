@@ -1,6 +1,5 @@
 #include<stdlib.h>
 #include<memory.h>
-#include "wildsort.h"
 
 static void _sort_insertion(int* arr, int size) {
     for(int i = 0; i < size; i++) {
